@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:statusBarColor">@color/apnapay_primary_dark</item>
+        <item name="android:navigationBarColor">@color/apnapay_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>

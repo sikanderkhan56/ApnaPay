@@ -1,0 +1,6 @@
+<resources>
+    <color name="apnapay_primary">#1A56C8</color>
+    <color name="apnapay_primary_dark">#123A8A</color>
+    <color name="apnapay_accent">#F47B20</color>
+    <color name="apnapay_background">#F4F7FC</color>
+</resources>
